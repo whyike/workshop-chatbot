@@ -25,6 +25,8 @@ This project serves as a simple web server designed for the AI workshop chat bot
    Build the Docker image and run the container:
    ```bash
    docker build -t chatbot-web-server .
+
+   ```bash
    docker run -d -p 80:80 chatbot-web-server
 
 4. **Access the Web Server**
