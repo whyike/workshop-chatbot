@@ -33,6 +33,6 @@ This project serves as a simple web server designed for the AI workshop chat bot
 
 4. **Access the Web Server**
 
-   Open your web browser and navigate to http://localhost:8000 to view your web server.
+   Open your web browser and navigate to http://localhost:8000 to use your Chat Bot.
 
 ### Enjoy - Mike :)
